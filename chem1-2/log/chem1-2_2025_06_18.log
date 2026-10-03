@@ -1,0 +1,16 @@
+2025_06_18 19_26_07 : × No file - 131-11-3
+2025_06_18 19_26_15 : × No file - 84-66-2
+2025_06_18 19_26_48 : × Exception during PDF download - 84-74-2: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\270riskdoc.pdf, HTTPConnectionPool(host='www.safe.nite.go.jp', port=80): Max retries exceeded with url: /risk/files/pdf_hyoukasyo/270riskdoc.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A81C8F62F0>, 'Connection to www.safe.nite.go.jp timed out. (connect timeout=None)'))
+2025_06_18 19_26_48 : × File download failed - 84-74-2: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\mat02-1_6.pdf, 404
+2025_06_18 19_26_49 : × File download failed - 84-74-2: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\mat03-2.pdf, 404
+2025_06_18 19_27_10 : × Exception during PDF download - 84-74-2: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\270riskdoc.pdf, HTTPConnectionPool(host='www.safe.nite.go.jp', port=80): Max retries exceeded with url: /risk/files/pdf_hyoukasyo/270riskdoc.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A81C8F5870>, 'Connection to www.safe.nite.go.jp timed out. (connect timeout=None)'))
+2025_06_18 19_27_42 : × Exception during PDF download - 117-81-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\272riskdoc.pdf, HTTPConnectionPool(host='www.safe.nite.go.jp', port=80): Max retries exceeded with url: /risk/files/pdf_hyoukasyo/272riskdoc.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A81C8CF9D0>, 'Connection to www.safe.nite.go.jp timed out. (connect timeout=None)'))
+2025_06_18 19_27_43 : × File download failed - 117-81-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\mat03-1.pdf, 404
+2025_06_18 19_27_46 : × File download failed - 117-81-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\ref02.pdf, 404
+2025_06_18 19_27_46 : × File download failed - 117-81-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\mat03-2.pdf, 404
+2025_06_18 19_28_09 : × Exception during PDF download - 117-81-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\272riskdoc.pdf, HTTPConnectionPool(host='www.safe.nite.go.jp', port=80): Max retries exceeded with url: /risk/files/pdf_hyoukasyo/272riskdoc.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A81C8CF5B0>, 'Connection to www.safe.nite.go.jp timed out. (connect timeout=None)'))
+2025_06_18 19_28_18 : × No file - 28553-12-0
+2025_06_18 19_28_25 : × No file - 26761-40-0
+2025_06_18 19_28_33 : × No file - 85507-79-5
+2025_06_18 19_28_41 : × No file - 27253-26-5
+2025_06_18 19_29_13 : × Exception during PDF download - 85-68-7: C:\Users\srish\OneDrive\Desktop\internship\chem1-2\pdf\273riskdoc.pdf, HTTPConnectionPool(host='www.safe.nite.go.jp', port=80): Max retries exceeded with url: /risk/files/pdf_hyoukasyo/273riskdoc.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A81C8AA350>, 'Connection to www.safe.nite.go.jp timed out. (connect timeout=None)'))
